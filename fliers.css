@@ -1,0 +1,59 @@
+html {
+  background: url("images/shadows.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div, body {
+  overflow: scroll;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+}
+
+#header {
+  font-family: 'PT Mono';
+  color: white;
+  text-align: center;
+  margin-top: 1em;
+}
+
+#flier {
+    margin-top: 2em;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    list-style: none;
+}
+
+#top1 {
+  font-family: 'PT Mono';
+  color: white;
+  font-size: 18x;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+#top1 a:link {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+#top1 a:visited {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+#top1 a:hover {
+  text-decoration: none;
+  color:black;
+  font-family: 'PT Mono';
+}
+#top1 a:active {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}

@@ -1,5 +1,5 @@
 html {
-  background: url("images/swiss.jpg");
+  background: url("images/shadows.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -38,7 +38,7 @@ html {
 }
 #top1 a:hover {
   text-decoration: none;
-  color:#CCCC90;
+  color:black;
   font-family: 'PT Mono';
 }
 #top1 a:active {
