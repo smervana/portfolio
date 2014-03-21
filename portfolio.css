@@ -1,0 +1,200 @@
+#homepage {
+  background-image: url("images/ny.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div, body{
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  overflow: scroll;
+}
+
+.page {
+  margin: 0;
+  background-color: transparent;
+  height: 100%;
+  width: 100%;
+  padding-top: 2em;
+}
+
+
+#homepage h2 {
+  font-family: 'PT Mono';
+  color: #CA5353;
+  display: inline;
+  margin: 0 5px 0 0;
+  padding: 0;
+  margin-left: 35px;
+}
+
+#homepage ul {
+  display: inline;
+  padding: 0px;
+  margin: 0;
+  float: right;
+  margin-right: 35px;
+}
+
+#homepage li {
+  display: inline;
+  float: right;
+  padding: 0 0 0 10px;
+  font-family: 'PT Mono';
+  color: #F5A9A9;
+  font-size: 24px;
+  list-style: none;
+}
+
+#homepage a:link {
+  text-decoration: none;
+  color:#F78181;
+}
+
+#homepage a:visited {
+  text-decoration: none;
+  color: #F78181;
+}
+
+#homepage a:hover {
+  text-decoration: none;
+  color: #CA5353;
+}
+
+#homepage a:active {
+  text-decoration: none;
+  color: #F78181;
+}
+
+.homepage {position: absolute;
+margin-top: 0px;}
+
+#homepage p {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  margin-top: 43em;
+  text-align: center;
+  font-size: 14px;
+}
+
+#work {
+  background-image: url("images/boats.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#work .examples {
+  margin-top: 9em;
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#work table{
+    background-color:rgba(100,100,100,0.4);
+    border-spacing: 25px
+}
+body{
+    background-color:transparent;
+}​
+#work td {
+  padding: 2em;
+}
+
+
+#work .titles {
+  font-family: 'PT Mono';
+  font-size: 16px;
+  color: white;
+  text-align: center;
+}
+
+#about {
+  background-image: url("images/fcf.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
+#about .me {
+  width: 300px;
+  margin: 2em auto;
+}
+
+#about p {
+  font-family: 'PT Mono';
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+#about .description{
+    background-color:rgba(100,100,100,0.4);
+    border-spacing: 25px
+}
+body{
+    background-color:transparent;
+}​
+
+#top1 {
+  font-family: 'PT Mono';
+  color: white;
+  font-size: 18x;
+  margin-left: 20px;
+}
+
+#top1 a:link {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+  margin-left: 20px;
+}
+#top1 a:visited {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+#top1 a:hover {
+  text-decoration: none;
+  color:#991F00;
+  font-family: 'PT Mono';
+}
+#top1 a:active {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+
+#top2 {
+  font-family: 'PT Mono';
+  color: white;
+  font-size: 18x;
+  margin-left: 20px;
+}
+
+#top2 a:link {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+#top2 a:visited {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+#top2 a:hover {
+  text-decoration: none;
+  color:#991F00;
+  font-family: 'PT Mono';
+}
+#top2 a:active {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}

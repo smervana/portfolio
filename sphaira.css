@@ -1,0 +1,48 @@
+html {
+  background: url("images/swiss.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#header {
+  font-family: 'PT Mono';
+  color: white;
+  text-align: center;
+  margin-top: 1em;
+}
+
+#video {
+  margin: 0em auto;
+  width:800px;
+}
+
+#top1 {
+  font-family: 'PT Mono';
+  color: white;
+  font-size: 18x;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 6em;
+}
+
+#top1 a:link {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+#top1 a:visited {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
+#top1 a:hover {
+  text-decoration: none;
+  color:#CCCC90;
+  font-family: 'PT Mono';
+}
+#top1 a:active {
+  text-decoration: none;
+  color:white;
+  font-family: 'PT Mono';
+}
